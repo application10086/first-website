@@ -7,6 +7,24 @@
     margin: 0;
   }
 
+  h1 {
+    text-align: center;
+    font-size: 28px;
+    font-family: 'lucida console';
+    color: #2a3730;
+
+}
+
+h2 {
+  text-align: center;
+  font-size: 20px;
+  font-family: 'lucida console';
+  color: #2a3730;
+
+}
+
+
+
 #bubble-wrapper {
   height: 100%;
   width: 100%;
@@ -71,21 +89,7 @@ html, body {
 
 
 
-h1 {
-    text-align: center;
-    font-size: 28px;
-    font-family: 'lucida console';
-    color: #2a3730;
 
-}
-
-h2 {
-  text-align: center;
-  font-size: 20px;
-  font-family: 'lucida console';
-  color: #2a3730;
-
-}
 
 img {
     width: 224px;
