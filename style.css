@@ -1,0 +1,64 @@
+.cent {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 25vh;
+    margin: 0;
+  }
+
+
+
+.box{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: radial-gradient(circle, #E8DEFC,#9AC791,  #3E7556,  #2a3730 );
+    background-size: cover;
+    z-index: -1;
+}
+
+
+
+h1 {
+    text-align: center;
+    font-size: 32px;
+    font-family: 'lucida console';
+    color: #2a3730;
+
+}
+
+
+img {
+    width: 224px;
+    height: 258px;
+    display: flex;
+    margin: 0 auto;
+    text-align: center;
+}
+
+
+
+.social-media {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+
+.social-media a {
+    display: inline-block;
+    margin: 10px;
+    text-align: center;
+  }
+
+
+.social-media img{
+    max-width: 20px;
+    max-height: 20px;
+    display: block;
+    margin: 0 auto;
+}
+
